@@ -1,0 +1,6 @@
+*.class
+*.i
+*.svn-base
+bin
+*.hg
+entries
